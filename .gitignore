@@ -24,3 +24,7 @@ venv/
 *.swo
 *.swn
 *~
+
+# install artifacts
+*.egg-info
+build/
